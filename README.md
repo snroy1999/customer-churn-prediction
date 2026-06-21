@@ -198,6 +198,23 @@ Achieved the highest classification accuracy and provided strong interpretabilit
 
 ---
 
+## Power BI Dashboard
+
+An interactive Customer Retention Analytics Dashboard was developed in Power BI to monitor churn trends, customer behavior, and retention risk factors.
+
+### Dashboard Highlights
+
+- Customer Churn Rate Analysis
+- Contract Type Impact on Churn
+- Internet Service Churn Trends
+- Payment Method Analysis
+- Average Monthly Charges by Churn Status
+- Average Customer Tenure by Churn Status
+
+### Dashboard Preview
+
+![Customer Retention Dashboard](dashboard/churn_dashboard.pbix)
+
 ## Future Improvements
 
 * Hyperparameter tuning
