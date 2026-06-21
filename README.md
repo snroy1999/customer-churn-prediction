@@ -213,7 +213,7 @@ An interactive Customer Retention Analytics Dashboard was developed in Power BI 
 
 ### Dashboard Preview
 
-![Customer Retention Dashboard](dashboard/churn_dashboard.pbix)
+![Customer Retention Dashboard](dashboard/churn_dashboard.png)
 
 ## Future Improvements
 
